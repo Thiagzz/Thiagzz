@@ -1,11 +1,11 @@
 ### Olá! Eu sou Thiago Silva. Seja bem vindo! 🐱‍👤
 <img src="https://github.com/Thiagzz/Thiagzz/blob/main/hh8.jpg">
 
-O trabalho fica ainda melhor quando estamos energizados haha! 🍕🍕
+O trabalho fica ainda melhor quando estamos energizados haha! 🍕🍕 </br>
 
-Conhecimento:
--> JavaScript
--> TypeSCript
--> PHP
--> AJAX
--> MySQL
+Conhecimento: </br>
+-> JavaScript </br>
+-> TypeSCript </br>
+-> PHP </br>
+-> AJAX </br>
+-> MySQL </br>
