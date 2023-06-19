@@ -3,7 +3,7 @@
 
 O trabalho fica ainda melhor quando estamos energizados haha! 🍕🍕 </br>
 
-Conhecimento: </br>
+### Conhecimento: </br>
 -> JavaScript </br>
 -> TypeSCript </br>
 -> PHP </br>
