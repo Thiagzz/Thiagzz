@@ -1,8 +1,8 @@
 ### Hi there 👋
-
+<img src="https://github.com/Thiagzz/Thiagzz/blob/main/hh8.jpg">
 <!--
 **Thiagzz/Thiagzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+https://github.com/Thiagzz/Thiagzz/blob/main/hh8.jpg
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
