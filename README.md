@@ -5,7 +5,7 @@
 
 ## Conhecimento: </br>
 -> JavaScript </br>
--> TypeSCript </br>
+-> TypeScript </br>
 -> PHP </br>
 -> AJAX </br>
 -> MySQL </br>
