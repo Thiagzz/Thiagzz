@@ -4,6 +4,7 @@
 ### O trabalho fica ainda melhor quando estamos energizados haha! 🍕🍕 </br>
 
 ## Conhecimento: </br>
+-> HTML/CSS
 -> JavaScript </br>
 -> TypeScript </br>
 -> PHP </br>
