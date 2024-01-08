@@ -6,7 +6,3 @@
 ## Conhecimento: </br>
 -> HTML/CSS </br>
 -> JavaScript </br>
--> TypeScript </br>
--> PHP </br>
--> AJAX </br>
--> MySQL </br>
